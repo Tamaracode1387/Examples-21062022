@@ -1,0 +1,15 @@
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.AssemblyReference.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfoInputs.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfo.cs
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.CoreCompileInputs.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.exe
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.deps.json
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.runtimeconfig.json
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.pdb
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll
