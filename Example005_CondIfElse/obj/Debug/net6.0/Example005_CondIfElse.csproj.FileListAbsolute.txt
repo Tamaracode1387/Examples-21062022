@@ -1,0 +1,15 @@
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\bin\Debug\net6.0\Example005_CondIfElse.exe
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\bin\Debug\net6.0\Example005_CondIfElse.deps.json
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\bin\Debug\net6.0\Example005_CondIfElse.runtimeconfig.json
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\bin\Debug\net6.0\Example005_CondIfElse.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\bin\Debug\net6.0\Example005_CondIfElse.pdb
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\Example005_CondIfElse.csproj.AssemblyReference.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\Example005_CondIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\Example005_CondIfElse.AssemblyInfoInputs.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\Example005_CondIfElse.AssemblyInfo.cs
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\Example005_CondIfElse.csproj.CoreCompileInputs.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\Example005_CondIfElse.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\refint\Example005_CondIfElse.dll
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\Example005_CondIfElse.pdb
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\Example005_CondIfElse.genruntimeconfig.cache
+C:\Users\chood\OneDrive\Рабочий стол\GB\4. Знакомство с языками программирования\Урок 1. Знакомство с языком C# (Лекция)\Examples\Example005_CondIfElse\obj\Debug\net6.0\ref\Example005_CondIfElse.dll
